@@ -1,0 +1,2 @@
+For simmplification, we mapped each proof step to one single character.
+For example, GEN_TAC is converted into 'a'.
